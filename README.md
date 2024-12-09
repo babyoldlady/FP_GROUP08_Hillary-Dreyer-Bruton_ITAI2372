@@ -4,7 +4,7 @@ NASA Space Mission AI Conceptual Project
 ## Team Members: 
 - Andrew Badzioch - Began team discussions, initial planning, suggested themes, presentation slides
 - Hillary Dreyer Bruton - Editing, testing plan, GitHub repository 
-- Joseph Hiller
+- Joseph Hiller - Presentation slides
 - Quentin Smith - Project research, project & solution plan 
 
 ## Brief Project Description: 
