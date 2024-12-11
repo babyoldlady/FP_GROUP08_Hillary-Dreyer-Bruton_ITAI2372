@@ -1,5 +1,6 @@
 # FP_GROUP08_Hillary-Dreyer-Bruton_ITAI2372
 NASA Space Mission AI Conceptual Project
+GitHub Repository Location: https://github.com/babyoldlady/FP_GROUP08_Hillary-Dreyer-Bruton_ITAI2372
 
 ## Team Members: 
 - Andrew Badzioch - Began team discussions, initial planning, suggested themes, presentation slides
